@@ -1,0 +1,141 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Manex Phring Sangma",
+    "label": "Programmer",
+    "image": "profile.jpeg",
+    "email": "manexsangma03@gmail.com",
+    "phone": "+880 XXXXXXXXXX",
+    "summary": "An ambitious undergraduate computer science student with a strong foundation in programming languages, including C, C++, Java, Python, and JavaScript. Skilled in web development, object-oriented programming, and solving competitive programming problems. Certified in Responsive Web Design from freeCodeCamp, with a passion for building innovative, efficient, and user-focused solutions. Always eager to learn and apply new technologies to tackle real-world challenges.",
+    "location": {
+      "city": "Dhaka"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Manex195",
+        "url": "https://github.com/Manex195"
+      },
+      {
+        "network": "X",
+        "url": "https://x.com/ManexPhring"
+      },
+      {
+        "network": "LINKEDIN",
+        "url": "https://www.linkedin.com/in/manex-phring-sangma-89609a257/"
+      },
+      {
+        "network": "FACEBOOK",
+        "url": "https://www.facebook.com/manex.phringsangma.5/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "",
+      "location": "",
+      "description": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "National Collegiate Programming Contest-2023",
+      "position": "Volunteer",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "7 March 2023",
+      "endDate": "8 March 2023",
+      "summary": "The National Collegiate Programming Contest (NCPC) is a competitive programming event where university teams solve algorithmic challenges under time constraints. It promotes teamwork, problem-solving, and coding skills, often serving as a qualifier for the prestigious International Collegiate Programming Contest (ICPC). The NCPC helps students enhance their technical expertise, gain recognition, and prepare for careers in software development and research.",
+      "highlights": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Responsive Web Design",
+      "date": "[6 November 2024]",
+      "issuer": "Quincy Lerson",
+      "url": "https://www.freecodecamp.org/certification/fccc12777fc-4cce-44a8-ba8c-b8c9f6588bbf/responsive-web-design"
+    }
+  ],
+  "publications": [{}],
+  "education": [
+    {
+      "institution": "Jahangirnagar University",
+      "url": "https://juniv.edu/",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor",
+      "startDate": "9 March 2022",
+      "endDate": "Continuing",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Milestone College",
+      "url": "https://www.milestonecollege.com/",
+      "area": "Science",
+      "studyType": "Higher Secondary",
+      "startDate": "2018",
+      "endDate": "2020",
+      "score": "4.92",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["OOP"]
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate",
+      "keywords": ["mysql"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bangla",
+      "fluency": "native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["ML", "NLP"]
+    }
+  ],
+  "references": [{}],
+  "projects": [
+    {
+      "name": "ETicket",
+      "description": "An all in one ticket booking app for all transport",
+      "highlights": [],
+      "keywords": ["JAVA", "OOP", "MySQL", "Java Swing"],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "roles": ["Programmer"],
+      "entity": "",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
