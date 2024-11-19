@@ -31,9 +31,11 @@ Feel free to get in touch through the form on my [Contact Page](/contact/).
 
 ---
 
-## Example of My Work
+## My Projects
 
-![My Project](https://github.com/Manex195/ETicket "Project Example")
+- [Project 1](https://github.com/Manex195/ETicket): Ticket booking app made using java, javaswing and mysql for database. 
+- [Project 2](https://github.com/Manex195/Product-landing-page): A simple product landing page made using html and css.
+- [Project 3](https://github.com/Manex195/Technical-documentation-page): A simple Technical documentation page using html and css.
 
 Check out my recent project on [GitHub](https://github.com/Manex195) or on
 [LinkedIn](https://www.linkedin.com/in/manex-phring-sangma-89609a257/).
